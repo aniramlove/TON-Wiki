@@ -1,6 +1,6 @@
 # TON-Wiki
 <a href="https://tonwiki.space/wiki/The_Open_Network">
-	<img width="60%" src="ton-wiki/docs/assets/0.png" alt="TON Wiki" />
+	<img width="30%" src="ton-wiki/docs/assets/0.png" alt="TON Wiki" />
 
 
 ### [1.Руководство по написанию статей.](https://aniramlove.github.io/TON-Wiki/ton-wiki/docs/1.Main_guide)
@@ -16,8 +16,7 @@
 > Для подачи заявки на вознаграждение за проделанную работу, каждому автору, переводчику или редактору необходимо внимательно выполнить по пунктам указанный в этой статье порядок действий.
 
 
-
 ### Notice
 
->  Если будут какие-то сложности или вопросы по выполнению, пишите [Тиму](https://t.me/stop_think_ask) или [Руслану](https://t.me/ruusik).
+>  :skull: Если будут какие-то сложности или вопросы по выполнению, пишите [Тиму](https://t.me/stop_think_ask) или [Руслану](https://t.me/ruusik).
 
