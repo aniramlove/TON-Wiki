@@ -1,7 +1,8 @@
 # TON-Wiki
+<p class="aligncenter">
 <a href="https://tonwiki.space/wiki/The_Open_Network">
 	<img width="30%" src="ton-wiki/docs/assets/0.png" alt="TON Wiki" />
-
+</p>
 
 ### [1.Руководство по написанию статей.](https://aniramlove.github.io/TON-Wiki/ton-wiki/docs/1.Main_guide)
 >
