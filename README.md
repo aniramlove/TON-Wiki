@@ -19,6 +19,6 @@
 
 
 ### Notice
-
->  :skull: Если будут какие-то сложности или вопросы по выполнению, пишите [Тиму](https://t.me/stop_think_ask) или [Руслану](https://t.me/ruusik).
+> [!WARNING]
+> :skull: Если будут какие-то сложности или вопросы по выполнению, пишите [Тиму](https://t.me/stop_think_ask) или [Руслану](https://t.me/ruusik).
 
